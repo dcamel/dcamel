@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dcamel
 - 👀 Coding, 3DCG, 普通话
 - 🌱 Python, Java, Blender3D, 我在学中文
-- 💞️ is Illegal in Virginia
 - 📫 DM me
 
 <!---
